@@ -6,7 +6,7 @@ This is my 100-day commitment to code daily
 
 
 Goal:
- To build a habit of consistent coding, create real projects.
+ To build a habit of consistent coding, create real projects
 
 
 Start date:
