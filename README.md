@@ -10,4 +10,4 @@ Goal:
 
 
 Start date:
- June 25, 2025
+ June 26, 2025
